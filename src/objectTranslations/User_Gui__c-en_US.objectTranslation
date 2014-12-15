@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>User Gui</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>User  Gui</value>
+    </caseValues>
+    <fields>
+        <label><!-- Item --></label>
+        <name>Item__c</name>
+        <relationshipLabel><!-- User  Gui --></relationshipLabel>
+    </fields>
+    <layouts>
+        <layout>User Gui Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Consonant</startsWith>
+    <webLinks>
+        <label><!-- Display --></label>
+        <name>Display</name>
+    </webLinks>
+</CustomObjectTranslation>

@@ -44,7 +44,7 @@
         <actionName>View</actionName>
         <type>Default</type>
     </actionOverrides>
-    <compactLayoutAssignment>SYSTEM</compactLayoutAssignment>
+    <compactLayoutAssignment>Item_Compact_Layout</compactLayoutAssignment>
     <compactLayouts>
         <fullName>Item_Compact_Layout</fullName>
         <fields>Item_Category__c</fields>

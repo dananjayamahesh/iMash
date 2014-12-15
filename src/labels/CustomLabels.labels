@@ -1,3 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata"/>
-
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>Mash</fullName>
+        <categories>iMash</categories>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>iMash</shortDescription>
+        <value>1</value>
+    </labels>
+</CustomLabels>

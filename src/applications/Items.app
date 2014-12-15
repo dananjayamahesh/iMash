@@ -3,4 +3,6 @@
     <defaultLandingTab>standard-home</defaultLandingTab>
     <label>Items</label>
     <tab>Item__c</tab>
+    <tab>User__c</tab>
+    <tab>User_Gui__c</tab>
 </CustomApplication>

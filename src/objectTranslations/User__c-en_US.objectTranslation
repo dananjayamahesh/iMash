@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomObjectTranslation xmlns="http://soap.sforce.com/2006/04/metadata">
+    <caseValues>
+        <plural>false</plural>
+        <value>User</value>
+    </caseValues>
+    <caseValues>
+        <plural>true</plural>
+        <value>Users</value>
+    </caseValues>
+    <fields>
+        <label><!-- User Category --></label>
+        <name>User_Category__c</name>
+        <picklistValues>
+            <masterLabel>Cloth</masterLabel>
+            <translation><!-- Cloth --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Jewellery</masterLabel>
+            <translation><!-- Jewellery --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shoe</masterLabel>
+            <translation><!-- Shoe --></translation>
+        </picklistValues>
+    </fields>
+    <fields>
+        <label><!-- User Type --></label>
+        <name>User_Type__c</name>
+        <picklistValues>
+            <masterLabel>Blouse</masterLabel>
+            <translation><!-- Blouse --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Frock</masterLabel>
+            <translation><!-- Frock --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Shirt</masterLabel>
+            <translation><!-- Shirt --></translation>
+        </picklistValues>
+        <picklistValues>
+            <masterLabel>Trouser</masterLabel>
+            <translation><!-- Trouser --></translation>
+        </picklistValues>
+    </fields>
+    <layouts>
+        <layout>User Mobile Layout</layout>
+        <sections>
+            <label><!-- Custom Links --></label>
+            <section>Custom Links</section>
+        </sections>
+    </layouts>
+    <startsWith>Vowel</startsWith>
+</CustomObjectTranslation>
